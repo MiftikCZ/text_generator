@@ -1,0 +1,12 @@
+:root {
+  font-size: 22px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 10px;
+}
